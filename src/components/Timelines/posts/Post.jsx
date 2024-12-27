@@ -4,8 +4,8 @@ import ShareIcons from "@mui/icons-material/Telegram";
 import ConmmentIcons from "@mui/icons-material/ChatBubbleOutline";
 import SaveIcons from "@mui/icons-material/Bookmark";
 import { Avatar } from '@mui/material';
-import "./post.css"
 import { use } from 'react';
+import "./Post.css"
 
 
 const Post = ({user,postImage,likes,timeram}) => {
