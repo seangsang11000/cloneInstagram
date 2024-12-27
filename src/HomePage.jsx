@@ -2,7 +2,7 @@ import React from 'react'
 import "./HomePage.css";
 
 import Slidenav from './components/Navigation/Slidenav';
-import Timeline from './components/Timeline/Timeline';
+import Timeline from './components/Timelines/Timeline';
 const HomePage = () => {
   return (
     <div className="homepage">

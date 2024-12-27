@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Timeline/Sugesstions.css';
+import './Sugesstions.css';
 import { Avatar } from '@mui/material';
 const Sugesstions = () => {
   return (
