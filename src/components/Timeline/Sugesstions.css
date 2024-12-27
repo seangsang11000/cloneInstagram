@@ -1,0 +1,40 @@
+.sugesstions{
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.sugesstions_title{
+    color: grey;
+    font-weight: bolder;
+}
+.username_left{
+    display: inline-flex ;
+}
+.username_info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7px;
+}
+.relation{
+    color: gray;
+    font-size: 12px;
+}
+.sugesstions_username{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.follow_button{
+    color: rgb(21, 127, 214);
+    font-weight: bold;
+    background: 0;
+    border: none;
+}
+.follow_button:hover{
+    color: white;
+    cursor: pointer;
+}
+.username{
+    font-weight: 600;
+    font-size: 14px;
+}
