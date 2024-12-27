@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../Timeline/Timeline.css"
+import "./Timeline.css"
 import Sugesstion from "./Sugesstions";
 import Post from "../Timeline/posts/Post";
 const Timeline = () => {
