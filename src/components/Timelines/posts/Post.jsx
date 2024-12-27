@@ -4,7 +4,7 @@ import ShareIcons from "@mui/icons-material/Telegram";
 import ConmmentIcons from "@mui/icons-material/ChatBubbleOutline";
 import SaveIcons from "@mui/icons-material/Bookmark";
 import { Avatar } from '@mui/material';
-import "../posts/post.css"
+import "./post.css"
 import { use } from 'react';
 
 
